@@ -1,0 +1,15 @@
+havadurumu;derece;nem;ruzgar;tenis_oynanacak_mi
+Gunesli;Sicak;Yuksek;Zayif;Hayir
+Gunesli;Sicak;Yuksek;Guclu;Hayir
+Kapali;Sicak;Yuksek;Zayif;Evet
+Yagisli;Ilik;Yuksek;Zayif;Evet
+Yagisli;Soguk;Normal;Zayif;Evet
+Yagisli;Soguk;Normal;Guclu;Hayir
+Kapali;Soguk;Normal;Guclu;Evet
+Gunesli;Ilik;Yuksek;Zayif;Hayir
+Gunesli;Soguk;Normal;Zayif;Evet
+Yagisli;Ilik;Normal;Zayif;Evet
+Gunesli;Ilik;Normal;Guclu;Evet
+Kapali;Ilik;Yuksek;Guclu;Evet
+Kapali;Sicak;Normal;Zayif;Evet
+Yagisli;Ilik;Yuksek;Guclu;Hayir
